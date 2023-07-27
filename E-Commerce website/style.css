@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+.section-heading{
+    display:flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.container{
+    display: flex;
+    margin-top:20px;
+    height: 100%;
+    width: 100%;
+
+}
+.container .card{
+    margin: 40px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.button{
+    background-color:rgb(252, 191, 77);
+    color: black;
+    
+}
+.dropdown-button{
+    background-color: white;
+    color:black;
+    border:none;
+}
